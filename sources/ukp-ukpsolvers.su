@@ -1,0 +1,17 @@
+ukpsolvers.c:11:24:getRecursiveCalls	32	static
+ukpsolvers.c:16:6:resetRecursiveCalls	32	static
+ukpsolvers.c:24:9:newProblem	64	static
+ukpsolvers.c:34:6:destroyProblem	48	static
+ukpsolvers.c:42:9:ReadProblem	96	static
+ukpsolvers.c:72:9:FREC	64	static
+ukpsolvers.c:92:9:_FPD	80	static
+ukpsolvers.c:120:9:FPD	64	static
+ukpsolvers.c:132:9:GBACKREC	64	static
+ukpsolvers.c:149:9:_GBACKPD	80	static
+ukpsolvers.c:173:9:GBACKPD	64	static
+ukpsolvers.c:185:9:GFORWREC	64	static
+ukpsolvers.c:202:9:_GFORWPD	80	static
+ukpsolvers.c:226:9:GFORWPD	64	static
+ukpsolvers.c:243:9:_BB2	112	static
+ukpsolvers.c:274:5:cmp	80	static
+ukpsolvers.c:282:9:BB2	160	dynamic
